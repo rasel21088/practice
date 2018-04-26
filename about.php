@@ -21,10 +21,8 @@
 	<tr>
 		<td height="600"></td>
 		<td valign="top">
-			<h1>Professional Web Development Specialist</h1>
-			<p align="justify"><strong>This Web Development Specialist course</strong> <ins>is an intensive hands-on course</ins>is designed to <mark>provide web developers</mark> with an in-depth understanding of the web development process and life cycle.</p>
-			<p>(a+b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup></p>
-		     &
+			<h1>This is about us</h1>
+			
 			
 		</td>
 		<td width="200"></td>
